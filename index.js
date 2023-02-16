@@ -1,2 +1,1 @@
-nzmj,,zyhcz,n
-:
+console.log ("git and Github")
